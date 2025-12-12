@@ -5,19 +5,11 @@ A professional and interactive portfolio highlighting my technical expertise, pr
 
 This website serves as a centralized digital profile for recruiters, organizations, and collaborators.
 
----
-
-## 🔗 Project Access (Drive Link)
-Complete project files, assets, and build can be accessed here:
-
-👉 **Google Drive:** *[Add your link here](https://drive.google.com/drive/folders/1VaHySX4SmUnlanss655fSU1eMbCXaiz9?usp=sharing)*
-
----
 
 ## 🌐 Live Development Environment
 The project runs locally using Vite’s default server:
 
-**http://localhost:5173/**
+ ➜  **Protfolio**:   *[Click here to see]http://localhost:5173/*
 
 ---
 
